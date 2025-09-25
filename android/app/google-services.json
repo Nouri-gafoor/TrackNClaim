@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "763066421915",
+    "project_id": "tracknclaim-1f31d",
+    "storage_bucket": "tracknclaim-1f31d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763066421915:android:0374844459c678ff28ec3e",
+        "android_client_info": {
+          "package_name": "com.mp.tracknclaim.tracknclaim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1wFGydQL0IUCZWLKlWp-44qXXULa5ipw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763066421915:android:315996d037fda22228ec3e",
+        "android_client_info": {
+          "package_name": "com.mp.tracknclaim.tracknclaim.tracknclaim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1wFGydQL0IUCZWLKlWp-44qXXULa5ipw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
